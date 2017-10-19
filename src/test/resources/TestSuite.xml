@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Plan" verbose="1">
+	
+	<test name="Tests" preserve-order="true">
+		<classes>
+ 			<class name="onliner.test.OnlinerTest" />
+        </classes>
+	</test>
+</suite>
